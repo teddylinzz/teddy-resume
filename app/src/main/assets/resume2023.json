@@ -1,28 +1,57 @@
 {
-  "data": [
+  "information": [
+    {
+      "label": "title",
+      "content": "Teddy Lin"
+    },
+    {
+      "label": "contact",
+      "contacts" : [
+        {
+          "title" : "Linkedin",
+          "content" : "linkedin.com/in/teddy-lin-2945855a",
+          "tag" : "web"
+        },
+        {
+          "title" : "Mobile",
+          "content" : "+886919805117",
+          "tag" : "phone"
+        },
+        {
+          "title" : "Email",
+          "content" : "tlinprodroid@gmail.com",
+          "tag" : "mail"
+        }
+      ]
+    },
     {
       "label": "introduction",
       "content": "Android developer with 9+ years of experience, including the live streaming App, game streaming App, social network App, healthy App for Bluetooth headset, OTT-Box, etc. Familiar with Kotlin, Java, Coroutine, KTX, Jetpack, Jsoup, Gson, Glide, Picasso, Fresco, Retrofit, Firebase. Refactoring coding by design pattern such as MVC, MVP, MVVM, SOLID principle. Also, experienced in improving performance, debugging in OOM, ANR issue, using benchmark tools for measuring performance, as well as Jenkins CI/CD."
     },
     {
       "label": "experience",
-      "content": "Senior Android Engineer\nEMQ Inc. 全職\n2021年6月 - 2023年1月 · 1 年 8 個月\n台灣 新北市 板橋區\n\nKey Highlight - Responsible for collaborating with 3rd-party, and build up a completely new App that the App started from scratch\n- Design software architecture for complicated functions.\n- Responsible for developing functions and communicating with UI/UX/PM."
+      "icon" : "emq",
+      "content": "EMQ Inc.\nSenior Android Engineer\n2021年6月 - 2023年1月 · 1 年 8 個月\n台灣 新北市 板橋區\n\nKey Highlight - Responsible for collaborating with 3rd-party, and build up a completely new App that the App started from scratch\n- Design software architecture for complicated functions.\n- Responsible for developing functions and communicating with UI/UX/PM."
     },
     {
       "label": "experience",
-      "content": "Senior Android Developer\n17 Media 正職\n2019年11月 - 2021年5月 · 1 年 7個月\n台北市\n\nKey Highlights - manage junior developers.\n- Play the role of senior Android developer that leads junior developers to improve their skills and speed up development.\n- Responsible for developing functions and communicating with UI/UX/PM. \n- Design software architecture for complicated functions.\n- Create Jenkins jobs to distribute beta APK to internal testers and schedule daily build work for testers\n- Create a Native library and build so file for App use.\n- Analysis of performance issues like ANR/OOM and critical issues."
+      "icon" : "live17",
+      "content": "17 Media\nSenior Android Developer\n2019年11月 - 2021年5月 · 1 年 7個月\n台北市\n\nKey Highlights - manage junior developers.\n- Play the role of senior Android developer that leads junior developers to improve their skills and speed up development.\n- Responsible for developing functions and communicating with UI/UX/PM. \n- Design software architecture for complicated functions.\n- Create Jenkins jobs to distribute beta APK to internal testers and schedule daily build work for testers\n- Create a Native library and build so file for App use.\n- Analysis of performance issues like ANR/OOM and critical issues."
     },
     {
       "label": "experience",
-      "content": "Android Developer\n浪Live_旭瑞文化傳媒股份有限公司 正職\n2017年11月 - 2019年9月 · 1 年 11 個月\n台灣 台北市\n\nKey Highlight - A completely new App and rolled out to google play that the App started from scratch.\n- Responsible for developing functions and communicating with UI/UX.\n- Design software architecture for complicated functions."
+      "icon" : "lang",
+      "content": "浪Live_旭瑞文化傳媒股份有限公司\nAndroid Developer\n2017年11月 - 2019年9月 · 1 年 11 個月\n台灣 台北市\n\nKey Highlight - A completely new App and rolled out to google play that the App started from scratch.\n- Responsible for developing functions and communicating with UI/UX.\n- Design software architecture for complicated functions."
     },
     {
       "label": "experience",
-      "content": "Android Developer\nmigme\n2015年3月 - 2017年3月 · 2 年 1 個月\n\nKey Highlights - Rewrite the WAP based app to Android app, web socket performance tuning; the company MAU ups to 40M.\n- Developing a Social App that the user can chat, feed, gifting with other users\n- Developing a Social J2ME App that lets users chat with other users. And the user can share a story with pictures."
+      "icon" : "migme",
+      "content": "Migme\nAndroid Developer\n2015年3月 - 2017年3月 · 2 年 1 個月\n\nKey Highlights - Rewrite the WAP based app to Android app, web socket performance tuning; the company MAU ups to 40M.\n- Developing a Social App that the user can chat, feed, gifting with other users\n- Developing a Social J2ME App that lets users chat with other users. And the user can share a story with pictures."
     },
     {
       "label": "experience",
-      "content": "Software Engineer\n正文科技股份有限公司\n2011年7月 - 2015年3月 · 3 年 9 個月\n台灣 新北市\n\nKey Highlights - Android-based VOIP phone Set-Top-Box for NTT; Android app for IOT product series.\n- Developing Apps on OTT Box lets the product provide more function (Photo viewer, File Manager...)\n- Developing an App to display healthy information, collect data from Bluetooth headset"
+      "icon" : "gemtek",
+      "content": "正文科技股份有限公司\nSoftware Engineer\n2011年7月 - 2015年3月 · 3 年 9 個月\n台灣 新北市\n\nKey Highlights - Android-based VOIP phone Set-Top-Box for NTT; Android app for IOT product series.\n- Developing Apps on OTT Box lets the product provide more function (Photo viewer, File Manager...)\n- Developing an App to display healthy information, collect data from Bluetooth headset"
     }
   ]
 }
