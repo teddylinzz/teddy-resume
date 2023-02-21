@@ -2,7 +2,11 @@
 
 This is a simple App to show my resume.
 
-###There are include some common tools:
+<img src="https://github.com/TeddyLin0630/teddy-resume/blob/main/docs/example_1.png" width="200" align="center">
+
+
+
+There are include some common tools:
 
 | Name  | Version |
 | ------------- | ------------- |
