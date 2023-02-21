@@ -78,6 +78,10 @@ dependencies {
     implementation(libs.androidx.compose.ui)
     implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.compose.material3)
+
+    //json parsing
+    implementation(libs.moshi)
+    kapt(libs.moshi.codegen)
     // Tooling
     debugImplementation(libs.androidx.compose.ui.tooling)
     // Instrumented tests
